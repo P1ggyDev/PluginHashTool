@@ -1,0 +1,9 @@
+name: PluginHashTool
+author: P1ggyDev
+version: 1.0.0
+api: [3.16.0]
+main: P1ggyDev\PluginHashTool\Main
+
+commands:
+  hash:
+    description: Hash plugin
