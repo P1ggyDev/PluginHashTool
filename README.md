@@ -1,5 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/P1ggyDev/PluginHashTool?style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/P1ggyDev/PluginHashTool?style=flat-square)
+[![Build Status](https://travis-ci.org/P1ggyDev/PluginHashTool.svg?branch=main)](https://travis-ci.org/P1ggyDev/PluginHashTool)
 ![PoggitCI](https://poggit.pmmp.io/ci.badge/P1ggyDev/PluginHashTool/PluginHashTool?build=2)
 # Plugin Hash Tool
 **PocketMine's plugin hash tool**
