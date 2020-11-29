@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/P1ggyDev/PluginHashTool
+build-by-default: true
+branches:
+- main
+projects:
+  PluginHashTool:
+    path: ""
+...
